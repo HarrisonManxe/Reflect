@@ -6,7 +6,7 @@ Reflect is a small library that speeds up and simplifies the work of JS with HTM
 
 ## How it use?
 
-Download `index.js` from this repo and add it to your project. Next - read the [Documentation](https://github.com/HarrisonManxe/Reflect/tree/main/sources)
+Download `index.js` from this repo and add it to your project. Next - read the [Documentation]([https://github.com/HarrisonManxe/Reflect/tree/main/sources](https://github.com/HarrisonManxe/Reflect/blob/main/sources/documentation.md))
 
 ## Good work!
 
